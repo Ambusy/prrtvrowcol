@@ -9,12 +9,12 @@ Call the subroutine with 3 parameters:
 
 3. a table of 999 rows. each row with 4 elements (Output parameter):
 
-  a. Field name
+    a. Field name
   
-  b. Row number of the field
+    b. Row number of the field
   
-  c. Column number of the field
+    c. Column number of the field
   
-  d. Length of the field
+    d. Length of the field
   
-Compile and use.   
+Compile and use. For more information about retrievable information look for IBM's documentation on "List Fields (QUSLFLD) API"
