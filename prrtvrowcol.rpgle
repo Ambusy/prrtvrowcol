@@ -1,6 +1,6 @@
      H dftactgrp(*no) option(*nodebugio)                                         
      H debug decedit('0,') datedit(*DMY/)                                        
-     HCOPYRIGHT('S.I.R.I. S.r.l. Soluzioni Informatiche per il Retail Italiano')  
+     HCOPYRIGHT('FREEWARE. Created by S.I.R.I. S.r.l. Soluzioni Informatiche per il Retail Italiano')  
      HAdapted from the FFDRPG program to display a file
       *************************************************************************
       *
