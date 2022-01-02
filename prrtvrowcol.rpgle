@@ -56,6 +56,7 @@
      D ListDs          DS           544
      D  SfFld                  1     10
      D  SfType                11     11
+     D  SfUse                 12     12  
      D  BufferOut             13     16B 0
      D  FieldLen              21     24B 0
      D  Digits                25     28B 0
