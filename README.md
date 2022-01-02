@@ -1,5 +1,5 @@
-# prrtvrowcol
-Subroutine in RPGLE, prRtvRowCol, to obtain the column and row of all fields in a DSPF display file for the IBM i-Series AS400. 
+# prRtvRowCol
+Subroutine in RPGLE, prRtvRowCol, to retrieve the column and row of all fields in a DSPF display file for the IBM i-Series AS400. 
 
 Call the subroutine with 3 parameters:
 
